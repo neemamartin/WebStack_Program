@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <personalInformation>
+            <firstName>Neema</firstName>
+            <lastName>Martin</lastName>
+            <dateOfBirth>2002-05-15</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Data Analyst</position>
+            <salary>80000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>neemamartin13@gmail.com</email>
+            <phoneNumber>123-456-7890</phoneNumber>
+        </contactInformation>
+    </employee>
+    <employee>
+        <personalInformation>
+            <firstName>Smitha</firstName>
+            <lastName>Thomas</lastName>
+            <dateOfBirth>2001-09-20</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Marketing Manager</position>
+            <salary>75000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>smitha.thomas@example.com</email>
+            <phoneNumber>987-654-3210</phoneNumber>
+        </contactInformation>
+    </employee>
+    <employee>
+        <personalInformation>
+            <firstName>Michael</firstName>
+            <lastName>Johnson</lastName>
+            <dateOfBirth>1993-12-10</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Accountant</position>
+            <salary>60000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>michael.johnson@example.com</email>
+            <phoneNumber>555-123-4567</phoneNumber>
+        </contactInformation>
+    </employee>
+</employees>
