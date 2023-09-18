@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+<entries>
+<title>
+<name>Harry Potter </name>
+<author>JK Rowling </author>
+<genre> Fantasy </genre>
+</title>
+<publication>
+<year> 1999 </year>
+<isbn>  201    </isbn>
+</publication>
+</entries>
+<entries>
+<title>
+<name>The jungle King </name>
+<author>Ruyard Kipling </author>
+<genre> Fantasy </genre>
+</title>
+<publication>
+<year> 2000 </year>
+<isbn>  201    </isbn>
+</publication>
+</entries>
+</records>
