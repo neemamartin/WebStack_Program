@@ -1,0 +1,23 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.search-container {
+    margin: 20px;
+}
+
+.product-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+}
+
+.product-image {
+    max-width: 100%;
+    height: auto;
+}
+

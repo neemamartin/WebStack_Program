@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Lipstick - Ruby Red",
+        "description": "Vibrant ruby red lipstick for a bold and glamorous look.",
+        "price": 12.99,
+        "image": "lipstick-ruby-red.jpg"
+    },
+    {
+        "name": "Eyeshadow Palette - Smoky Nights",
+        "description": "Create stunning smoky eye looks with this versatile eyeshadow palette.",
+        "price": 24.99,
+        "image": "eyeshadow-smoky-nights.jpg"
+    },
+    {
+        "name": "Foundation - Natural Glow",
+        "description": "Achieve a flawless complexion with our natural glow foundation.",
+        "price": 19.99,
+        "image": "foundation-natural-glow.jpg"
+    },
+    {
+        "name": "Mascara - Volume Max",
+        "description": "Get maximum volume and length with our volume-max mascara.",
+        "price": 14.99,
+        "image": "mascara-volume-max.jpg"
+    },
+    {
+        "name": "Blush - Rosy Cheeks",
+        "description": "Add a touch of rosy color to your cheeks with our blush compact.",
+        "price": 9.99,
+        "image": "blush-rosy-cheeks.jpg"
+    }
+]
